@@ -1,0 +1,57 @@
+Designator,Comment,Layer,Footprint,Center-X(mil),Center-Y(mil),Rotation,Description
+T7,testloop,TopLayer,testloop,2675,2475,90,
+T8,testloop,TopLayer,testloop,2675,2278.15,90,
+T9,testloop,TopLayer,testloop,2675,2081.299,90,
+R6,generic_resistor,TopLayer,R0402,3630,2425,0,
+X1,X322516MLB4SI,TopLayer,TSX-3225,3625,2325,0,
+U3,STM32F030F4P6TR,TopLayer,ST-TSSOP-20,3615,2095,270,"Value-line ARM-base 32-bit MCU with up to 256 KB Flash, timers, ADC, communication interfaces, 2.4-3.6 V operation"
+U2,NRF24L01P-R,TopLayer,QFN-20-4x4MM,3599.37,2552.362,0,Single Chip 2.4GHz Transceiver
+U1,AMS1117-3.3,TopLayer,SOT-223,3265,2450,90,1A low dropout voltage regulator
+T6,testloop,TopLayer,testloop,3310,2230,0,
+T5,testloop,TopLayer,testloop,2685,2675,0,
+T4,testloop,TopLayer,testloop,2890,2675,0,
+T3,testloop,TopLayer,testloop,2790,2675,0,
+T2,testloop,TopLayer,testloop,2990,2675,0,
+T1,testloop,TopLayer,testloop,3085,2675,0,
+R5,generic_resistor,TopLayer,R0402,2945,2525,360,
+R4,generic_resistor,TopLayer,R0402,3345,1990,180,
+R3,generic_resistor,TopLayer,R0402,2845,1965,360,
+R2,generic_resistor,TopLayer,R0402,3410,2240,0,
+R1,generic_resistor,TopLayer,R0402,3790,2600,270,
+Q1,2N7002,TopLayer,SOT-23-3,3345,2090,90,
+L3,C27123,TopLayer,C0402,3815,2420,270,SMT Inductor
+L2,C16208,TopLayer,C0402,3750,2510,90,SMT Inductor
+L1,C14033,TopLayer,C0402,3835,2490,0,SMT Inductor
+D5,SFH6286-2T,TopLayer,SFH6286-2T,3047.835,2100,360,
+D4,1N4148W,TopLayer,SOD-123,2915,2365,180,Diode
+D3,1N4148W,TopLayer,SOD-123,2915,2275,180,Diode
+D2,1N4148W,TopLayer,SOD-123,2910,2455,360,Diode
+D1,1N4148W,TopLayer,SOD-123,3055,2300,90,Diode
+C16,generic_capacitor,TopLayer,C0402,3505,2345,270,
+C15,generic_capacitor,TopLayer,C0402,3745,2335,90,
+C14,generic_capacitor,TopLayer,C0603,3200,2240,360,
+C13,generic_capacitor,TopLayer,C0402,3785,2090,270,
+C12,generic_capacitor,TopLayer,C0402,3450,2102.323,270,
+C11,generic_capacitor,TopLayer,C0805,3830,2005,180,
+C10,generic_capacitor,TopLayer,C0402,3450,1985,90,
+C9,generic_capacitor,TopLayer,C0402,4065,2450,270,
+C8,generic_capacitor,TopLayer,C0402,3995,2430,0,
+C7,generic_capacitor,TopLayer,C0402,3835,2300,180,
+C6,generic_capacitor,TopLayer,C0402,3835,2350,180,
+C5,generic_capacitor,TopLayer,C0805,3440,2390,270,
+C4,generic_capacitor,TopLayer,C0603,2950,2585,360,
+C3,generic_capacitor,TopLayer,C0402,3470,2485,90,
+C2,generic_capacitor,TopLayer,C0402,3730,2615,90,
+C1,generic_capacitor,TopLayer,C0402,3450,2665,180,
+C17,generic_capacitor,BottomLayer,C0402,3250,2070,90,
+C18,generic_capacitor,BottomLayer,C0805,3320,2040,90,
+C19,generic_capacitor,BottomLayer,C0402,2850,2570,270,
+C20,generic_capacitor,BottomLayer,C0402,3270,2375,180,
+C21,generic_capacitor,BottomLayer,C0402,3490,2315,180,
+C22,generic_capacitor,BottomLayer,C0402,3490,2210,180,
+J1,USB Micro,BottomLayer,10118192-0001LF,3007.756,2025.197,180,
+R7,generic_resistor,TopLayer,R0805,3055,2515,90,
+R8,generic_resistor,BottomLayer,R0805,3115,2615,180,
+U4,CH340G,BottomLayer,SOP-16,3040,2340,180,USB to UART Interface
+X2,X322512MSB4SI,BottomLayer,TSX-3225,3370,2210,90,
+T10,testloop,TopLayer,testloop,3180,2675,90,

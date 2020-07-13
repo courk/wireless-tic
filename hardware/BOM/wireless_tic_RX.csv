@@ -1,0 +1,17 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+generic_capacitor,,"C1, C2, C3, C6, C7, C8, C9, C10, C12, C13, C15, C16, C17, C19, C20, C21, C22",C0402,"C1585, C15195, C1525, C1531, C1569, C1552, C1550, C1525, C1525, C1525, C32949, C32949, C1525, C15195, C15195, C1562, C1562",17
+generic_capacitor,,"C4, C14",C0603,C59461,2
+generic_capacitor,,"C5, C11, C18",C0805,C15850,3
+USB Micro,,J1,10118192-0001LF,10118192-0001LF,1
+C14033,SMT Inductor,L1,C0402,C14033,1
+C16208,SMT Inductor,L2,C0402,C16208,1
+C27123,SMT Inductor,L3,C0402,C27123,1
+generic_resistor,,"R1, R5, R6",R0402,"C25768, C25744, C26083",3
+generic_resistor,,R8,R0805,C17477,1
+testloop,,"T1, T2, T3, T4, T5, T6, T7, T8, T9, T10",testloop,testloop,10
+AMS1117-3.3,1A low dropout voltage regulator,U1,SOT-223,AMS1117-3.3,1
+NRF24L01P-R,Single Chip 2.4GHz Transceiver,U2,QFN-20-4x4MM,NRF24L01P-R,1
+STM32F030F4P6TR,"Value-line ARM-base 32-bit MCU with up to 256 KB Flash, timers, ADC, communication interfaces, 2.4-3.6 V operation",U3,ST-TSSOP-20,STM32F030F4P6TR,1
+CH340G,USB to UART Interface,U4,SOP-16,CH340G,1
+X322516MLB4SI,,X1,TSX-3225,X322516MLB4SI,1
+X322512MSB4SI,,X2,TSX-3225,X322512MSB4SI,1

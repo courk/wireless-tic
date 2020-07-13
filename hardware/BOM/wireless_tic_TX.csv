@@ -1,0 +1,27 @@
+Comment,Description,Designator,Footprint,LibRef,Part Name,Quantity,Value,Manufacturer
+generic_capacitor,,C1,C0402,C1585,C1585,1,33nF,Guangdong Fenghua Advanced Tech
+generic_capacitor,,C2,C0402,C15195,C15195,1,10nF,Samsung Electro-Mechanics
+generic_capacitor,,"C3, C10, C12, C13",C0402,C1525,C1525,4,100nF,Samsung Electro-Mechanics
+generic_capacitor,,"C4, C14",C0603,C59461,C59461,2,22uF,Samsung Electro-Mechanics
+generic_capacitor,,"C5, C11",C0805,C15850,C15850,2,10uF,Samsung Electro-Mechanics
+generic_capacitor,,C6,C0402,C1531,C1531,1,2.2nF,Guangdong Fenghua Advanced Tech
+generic_capacitor,,C7,C0402,C1569,C1569,1,4.7pF,Guangdong Fenghua Advanced Tech
+generic_capacitor,,C8,C0402,C1552,C1552,1,1.5pF,Guangdong Fenghua Advanced Tech
+generic_capacitor,,C9,C0402,C1550,C1550,1,1pF,Guangdong Fenghua Advanced Tech
+generic_capacitor,,"C15, C16",C0402,C32949,C32949,2,10pF,Samsung Electro-Mechanics
+1N4148W,Diode,"D1, D2, D3, D4",SOD-123,1N4148W,1N4148W,4,,Semtech
+SFH6286-2T,,D5,SFH6286-2T,SFH6286-2T,SFH6286-2T,1,,Vishay Semiconductors
+C14033,SMT Inductor,L1,C0402,C14033,C14033,1,3.9nH,Sunlord
+C16208,SMT Inductor,L2,C0402,C16208,C16208,1,8.2nH,Sunlord
+C27123,SMT Inductor,L3,C0402,C27123,C27123,1,2.7nH,Sunlord
+2N7002,,Q1,SOT-23-3,2N7002,2N7002,1,,Changjiang Electronics Tech
+generic_resistor,,R1,R0402,C25768,C25768,1,22KO,Uniroyal Elec
+generic_resistor,,"R2, R4, R5",R0402,C25744,C25744,3,10KO,Uniroyal Elec
+generic_resistor,,R3,R0402,C25900,C25900,1,4.7KO,Uniroyal Elec
+generic_resistor,,R6,R0402,C26083,C26083,1,1MO,Uniroyal Elec
+generic_resistor,,R7,R0805,C17477,C17477,1,0O,Uniroyal Elec
+testloop,,"T1, T2, T3, T4, T5, T6, T7, T8, T9, T10",testloop,testloop,testloop,10,,
+AMS1117-3.3,1A low dropout voltage regulator,U1,SOT-223,AMS1117-3.3,AMS1117-3.3,1,,Advanced Monolithic Systems
+NRF24L01P-R,Single Chip 2.4GHz Transceiver,U2,QFN-20-4x4MM,NRF24L01P-R,NRF24L01P-R,1,,Nordic Semiconductor
+STM32F030F4P6TR,"Value-line ARM-base 32-bit MCU with up to 256 KB Flash, timers, ADC, communication interfaces, 2.4-3.6 V operation",U3,ST-TSSOP-20,STM32F030F4P6TR,STM32F030F4P6TR,1,,ST Microelectronics
+X322516MLB4SI,,X1,TSX-3225,X322516MLB4SI,X322516MLB4SI,1,,Yangxing Tech
